@@ -1,1 +1,1 @@
-thi  is a first file
+This is a readMe file
